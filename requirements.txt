@@ -24,7 +24,7 @@ colorhash==1.0.2
 configparser==3.7.1
 confluent-kafka==0.11.6
 crcmod==1.7
-cryptography==2.5
+cryptography==3.2
 cryptography-vectors==2.5
 cssmin==0.2.0
 decorator==4.3.2
