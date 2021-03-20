@@ -76,7 +76,7 @@ iso8601==0.1.12
 itsdangerous==1.1.0
 javascripthon==0.10
 jdcal==1.4
-Jinja2==2.10
+Jinja2==2.11.3
 jmespath==0.9.3
 jsbeautifier==1.8.9
 jsmin==2.2.2
