@@ -141,7 +141,7 @@ python-dateutil==2.7.5
 python-jenkins==1.4.0
 pytz==2018.9
 pyum==0.1.1
-PyYAML==3.13
+PyYAML==5.4
 pyzabbix==0.7.5
 qrcode==6.1
 redis==2.10.6
