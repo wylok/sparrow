@@ -115,7 +115,7 @@ pluggy==0.9.0
 prettytable==0.7.2
 protobuf==3.6.1
 psutil==5.5.0
-py==1.8.0
+py==1.10.0
 py-zabbix==1.1.5
 pyasn1==0.4.5
 pyasn1-modules==0.2.4
