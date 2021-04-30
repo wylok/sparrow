@@ -148,7 +148,7 @@ redis==2.10.6
 redis-py-cluster==1.3.6
 requests==2.21.0
 requests-oauthlib==1.2.0
-rsa==4.0
+rsa==4.7
 salt-ssh==2018.3.3
 scp==0.13.0
 shellescape==3.4.1
