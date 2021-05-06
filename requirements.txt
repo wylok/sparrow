@@ -42,7 +42,7 @@ fire==0.1.3
 Flask==1.0.2
 Flask-Assets==0.12
 Flask-CAS==1.0.0
-Flask-Cors==3.0.7
+Flask-Cors==3.0.9
 Flask-DebugToolbar==0.10.1
 Flask-Excel==0.0.7
 Flask-Limiter==1.0.1
