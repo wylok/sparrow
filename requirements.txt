@@ -168,7 +168,7 @@ tornado==5.1.1
 tox==3.9.0
 traitlets==4.3.2
 tzlocal==1.5.1
-urllib3==1.22
+urllib3==1.26.5
 virtualenv==16.5.0
 webassets==0.12.1
 webencodings==0.5.1
