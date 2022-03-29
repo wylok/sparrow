@@ -107,7 +107,7 @@ numpy==1.16.1
 oauthlib==3.0.1
 openpyxl==2.5.14
 oss2==2.6.1
-paramiko==2.4.2
+paramiko==2.10.1
 pbr==5.2.0
 Pillow==5.4.1
 plotly==2.7.0
