@@ -159,7 +159,7 @@ tabulate==0.8.3
 tailer==0.4.1
 tcpping==0.2
 tensorboard==1.12.2
-tensorflow==1.12.0
+tensorflow==2.6.4
 termcolor==1.1.0
 texttable==1.6.0
 thrift==0.11.0
