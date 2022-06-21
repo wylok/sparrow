@@ -103,7 +103,7 @@ mysqlclient==1.4.1
 Naked==0.1.31
 nbformat==4.4.0
 netaddr==0.7.19
-numpy==1.16.1
+numpy==1.22.0
 oauthlib==3.0.1
 openpyxl==2.5.14
 oss2==2.6.1
