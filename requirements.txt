@@ -13,7 +13,7 @@ bcrypt==3.1.6
 blinker==1.4
 cachetools==3.1.0
 cas-client==1.0.0
-certifi==2018.11.29
+certifi==2022.12.7
 cffi==1.11.5
 chardet==3.0.4
 chartkick==0.5.0
